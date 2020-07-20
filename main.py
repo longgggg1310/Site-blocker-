@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+
 class Camera():
 
 	def __init__(self):
@@ -44,7 +45,11 @@ class Camera():
 		upper = np.array([172,111,255], dtype=np.uint8)
 		mask = cv2.inRange(hsv, lower, upper)
 		return mask
+	
 
+    
+    	
+        	
 
    
    	
@@ -59,7 +64,9 @@ def main():
 
 		frame = cv2.resize(cam1,(0,0),fx=0.9, fy=0.9)
 		frame = camera.filter_color(frame)
+		
 		mask = camera.mask(frame)
+		
 		
 		
 		cv2.imshow("Frame",frame)
@@ -67,6 +74,7 @@ def main():
 			break
 		cv2.imshow("mask",mask)
 		cv2.imshow("origin",cam1)
+		
 		
 
 	camera.release_camera()
