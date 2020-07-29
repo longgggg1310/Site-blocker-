@@ -5,6 +5,7 @@ Recording history of users and blocking user-specified websites during a certain
 ## Prerequisite :
 Before you continue, ensure you meet the following requirements:
 You have installed Python
+
 You have an Admin access
 
 ## Installing: 
@@ -13,6 +14,7 @@ Before you start writing code, it’s important to ensure you have Python instal
 python.
 - Step Two: Go through the setup wizard and make sure to install pip as well as add python to the path (screenshot
 credit: [Data to Fish](https://datatofish.com/add-python-to-windows-path/)) 
+ 
  ![1](https://user-images.githubusercontent.com/65530922/88759169-5d5d9300-d194-11ea-9cf3-70f8ca4889c5.png)
 
 - Step Three: Go to https://www.jetbrains.com/pycharm/download/#section=windows, under Community, choose
@@ -31,7 +33,8 @@ package)
 Once you have imported all modules, exit out all of settings windows and wait a few minutes for each package to
 install.
 You have successfully installed python, PyCharm, and all required modules
- For example : 
+
+For example : 
 ```bash
 pip install pywin32
 ```
