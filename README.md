@@ -13,7 +13,8 @@ Before you start writing code, it’s important to ensure you have Python instal
 python.
 - Step Two: Go through the setup wizard and make sure to install pip as well as add python to the path (screenshot
 credit: [Data to Fish](https://datatofish.com/add-python-to-windows-path/)) 
-<img src="Desktop/New folder (2)/1.png">
+ ![1](https://user-images.githubusercontent.com/65530922/88759169-5d5d9300-d194-11ea-9cf3-70f8ca4889c5.png)
+
 - Step Three: Go to https://www.jetbrains.com/pycharm/download/#section=windows, under Community, choose
 the free download option. Go through the setup wizard using default options.
 - Step Four: Open PyCharm once downloaded and select Create New Project (screenshot credit: [BeginnersBook](https://datatofish.com/add-python-to-windows-path/)) 
@@ -41,16 +42,24 @@ pip install pywin32
 Open the script using pythonw.exe so that it would run as a background task.
 Automatically run the script file at Start-up as a backgroud task on Windows 10 using Task scheduler.
 ##What you will see when the website you are trying visit is blocked
-![](Desktop/New folder (2)/2.png)
+<img width="1433" alt="2" src="https://user-images.githubusercontent.com/65530922/88759196-723a2680-d194-11ea-9212-cd101315d506.png">
+
 ## Your keylogger and system will be sent to your email by formed txt 
-![](Desktop/New folder (2)/3.png)
-![](Desktop/New folder (2)/4.png)
+![3](https://user-images.githubusercontent.com/65530922/88759225-7fefac00-d194-11ea-8fa8-a6317d4d6ff5.png)
+
+
+![4](https://user-images.githubusercontent.com/65530922/88759238-8847e700-d194-11ea-87c3-47647facb6f2.png)
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 ## Author 
 [VU DANG LONG](https://www.facebook.com/longgggg00)
-[NGUYEN THI THANH NHAN] (https://www.facebook.com/thanhnhannguyenld)
+
+[NGUYEN THI THANH NHAN](https://www.facebook.com/thanhnhannguyenld)
+
 DANG GIA KHANH
+
 DANG VAN GIA HUY 
 
 
